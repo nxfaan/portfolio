@@ -5,39 +5,7 @@
 </script>
 
 <svelte:head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1, shrink-to-fit=no"
-  />
-
-  <!-- Bootstrap CSS -->
-  <link
-    rel="stylesheet"
-    href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/css/bootstrap.min.css"
-    integrity="sha384-SI27wrMjH3ZZ89r4o+fGIJtnzkAnFs3E4qz9DIYioCQ5l9Rd/7UAa8DHcaL8jkWt"
-    crossorigin="anonymous"
-  />
-  <link
-    rel="shortcut icon"
-    href="../img/favicon.png"
-    type="img/x-icon"
-  /><script>
-	  src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
-  </script><script src="./vendor/jquery/jquery-3.2.1.min.js"></script><link
-    rel="stylesheet"
-    href="https://use.typekit.net/mot4yma.css"
-  />
-  <link rel="stylesheet" href="https://use.typekit.net/tfs4sks.css" />
-
   <title>VR within Society</title>
-
-  <meta name="description" content="Nathan Redpath, A Creative Designer." />
-  <meta
-    name="keywords"
-    content=" Graphic Design, Interactive, Motion Graphics, Video Production, Web Design, UI, UX"
-  />
 </svelte:head>
 
 <main>

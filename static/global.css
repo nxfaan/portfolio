@@ -34,3 +34,11 @@ code {
 		font-size: 16px;
 	}
 }
+:global(body) {
+    overflow-x: hidden;
+  }
+
+  @font-face {
+    font-family: "sofia-pro";
+    src: url("/css/fonts/SofiaProBlack.ttf");
+  }
