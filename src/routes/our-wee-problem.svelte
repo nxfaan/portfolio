@@ -22,7 +22,6 @@
             />
           </div>
         </div>
-
         <div class="col-sm-6">
           <div class="left-work">
             <h2 class="work-para">
