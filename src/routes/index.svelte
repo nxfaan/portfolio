@@ -4,7 +4,10 @@
 </script>
 
 <svelte:head>
-  <title>Work</title>
+  <meta
+    name="google-site-verification"
+    content="2KFVtJ6chqno_XvY52dXmlQVzpPQWtFqjgbuhJmSvzA"
+  /><title>Work</title>
 </svelte:head>
 
 <main>
