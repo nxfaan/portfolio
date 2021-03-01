@@ -62,7 +62,7 @@
             am always freelancing and taking on projects in my spare time.<br
             /><br />Want to work together? Drop me a
             <a href="mailto:nathanredpath10@icloud.com">
-              <span class="highlight">line</span></a
+              <span class="highlight">line.</span></a
             >
           </p>
 
