@@ -23,7 +23,7 @@
           <div class="left-work">
             <h2 class="work-para">
               <p class="work-head">Perspective</p>
-              A interactive docuementary aimed towards raising awareness for mental
+              A Interactive docuementary aimed towards raising awareness for mental
               health within Northern Ireland and Ireland.
             </h2>
           </div>
