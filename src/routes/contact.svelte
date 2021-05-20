@@ -140,6 +140,9 @@
           <br />Bahria University
           <br />Air University
           <br />Forum for Adult Learning
+          <br />Algram
+          <br />WSI
+          <br />Lucid Energy
         </div>
         <br />
       </div>
@@ -197,7 +200,7 @@
   }
 
   .highlight {
-    font-family: sweety strawberry;
+    font-family: LemonPie;
     opacity: 100%;
     letter-spacing: 1px;
   }
