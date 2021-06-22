@@ -18,13 +18,9 @@
         <div class="col-lg-6 col-lg-3">
           <a href="falni">
             <div class="img-1">
-              <img
-                src="/img/checkmyschedule.png"
-                class="img-full-width"
-                alt=""
-              />
+              <img src="/img/lockdown.png" class="img-full-width" alt="" />
               <div class="overlay-1">
-                <div class="text-1">CheckMySchedule</div>
+                <div class="text-1">Lockdown</div>
               </div>
             </div>
           </a>
@@ -34,12 +30,12 @@
           <a href="vr-within-society">
             <div class="img-2 home-clicker">
               <img
-                src="/img/vr_within_society.jpg"
+                src="/img/checkmyschedule.png"
                 class="img-full-width"
                 alt=""
               />
               <div class="overlay-2">
-                <div class="text-2 home-clicker">VR within Society</div>
+                <div class="text-2 home-clicker">CheckMySchedule</div>
               </div>
             </div></a
           >
