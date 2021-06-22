@@ -18,6 +18,21 @@
         <div class="col-lg-6 col-lg-3">
           <a href="falni">
             <div class="img-1">
+              <img
+                src="/img/checkmyschedule.png"
+                class="img-full-width"
+                alt=""
+              />
+              <div class="overlay-1">
+                <div class="text-1">CheckMySchedule</div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-lg-6 col-lg-3">
+          <a href="falni">
+            <div class="img-1">
               <img src="/img/falni.jpg" class="img-full-width" alt="" />
               <div class="overlay-1">
                 <div class="text-1">The Forum for Adult Learning</div>
