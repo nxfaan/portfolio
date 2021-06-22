@@ -2,6 +2,7 @@
   <div class="col-sm-12">
     <p class="f-nav">
       <a class="a1" href=".">All</a> &ensp;
+      <a class="a1" href="checkmyschedule">CheckMySchedule</a> &ensp;
       <a class="a1" href="falni">FALNI</a> &ensp;
       <a class="a1" href="vr-within-society">VR in Society</a> &ensp;
       <a class="a1" href="go-boston">Go Boston</a> &ensp;
