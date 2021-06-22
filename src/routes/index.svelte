@@ -31,6 +31,25 @@
         </div>
 
         <div class="col-lg-6 col-lg-3">
+          <a href="vr-within-society">
+            <div class="img-2 home-clicker">
+              <img
+                src="/img/vr_within_society.jpg"
+                class="img-full-width"
+                alt=""
+              />
+              <div class="overlay-2">
+                <div class="text-2 home-clicker">VR within Society</div>
+              </div>
+            </div></a
+          >
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid full-width">
+      <div class="row row-no-gutter">
+        <div class="col-lg-6 col-lg-3">
           <a href="falni">
             <div class="img-1">
               <img src="/img/falni.jpg" class="img-full-width" alt="" />
