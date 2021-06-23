@@ -12,7 +12,7 @@
       &ensp;
       <a class="a1" href="seasonal-postcards">Seasonal Postcards</a>
       &ensp;
-      <a class="a1" href="perspective">Perspective</a> &ensp;<br />
+      <a class="a1" href="perspective">Perspective</a> &ensp;
       <a class="a1" href="dead-or-alive">Dead or Alive</a> &ensp;
       <a class="a1" href="interstellar">Interstellar</a> &ensp;
       <a class="a1" href="our-wee-problem">Our Wee Problem</a> &ensp;
