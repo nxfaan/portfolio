@@ -27,11 +27,11 @@
         </div>
 
         <div class="col-lg-6 col-lg-3">
-          <a href=".">
+          <a href="algram">
             <div class="img-2 home-clicker">
-              <img src="/img/.png" class="img-full-width" alt="" />
+              <img src="/img/algram.png" class="img-full-width" alt="" />
               <div class="overlay-2">
-                <div class="text-2 home-clicker">Pending</div>
+                <div class="text-2 home-clicker">Algram</div>
               </div>
             </div></a
           >

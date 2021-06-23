@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Lucid</title>
+  <title>Algram</title>
 </svelte:head>
 
 <main>
@@ -15,22 +15,23 @@
       <div class="row row-no-gutter">
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="/img/lucid/1.png" class="img-full-width" alt="" />
+            <img src="/img/algram/0.png" class="img-full-width" alt="" />
           </div>
         </div>
 
         <div class="col-sm-6">
           <div class="left-work">
             <h2 class="work-para">
-              <p class="work-head">Lucid</p>
-              Pending
+              <p class="work-head">Algram</p>
+              Creating a UI/UX design for modern comfort company Algram. Providing
+              an end to end E-Commerce Experience for the client.
             </h2>
           </div>
         </div>
         <div class="col-sm-6">
           <div class="right-work">
             <!-- svelte-ignore a11y-missing-attribute -->
-            <img class="work-2" src="/img/lucid/head.png" />
+            <img class="work-2" src="/img/algram/head.jpg" />
           </div>
         </div>
 
@@ -38,25 +39,7 @@
 
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="img/lucid/2.png" class="img-full-width" alt="" />
-          </div>
-        </div>
-
-        <div class="col-sm-12">
-          <div class="work-1">
-            <img src="img/lucid/3.png" class="img-full-width" alt="" />
-          </div>
-        </div>
-
-        <div class="col-sm-12">
-          <div class="work-1">
-            <img src="img/lucid/4.png" class="img-full-width" alt="" />
-          </div>
-        </div>
-
-        <div class="col-sm-12">
-          <div class="work-1">
-            <img src="img/lucid/5.png" class="img-full-width" alt="" />
+            <img src="img/algram/1.png" class="img-full-width" alt="" />
           </div>
         </div>
 
@@ -65,9 +48,11 @@
           <div align="center" class="socialbtns">
             <ul>
               <li>
-                <a href="https://www.lucid.house/">
+                <a
+                  href="https://www.figma.com/file/WWiYIIFqmIX8rCQxfJvAYy/Algram-Modern-Living?node-id=1%3A20"
+                >
                   <div id="contact-icon">
-                    <p class="pcontact">Website</p>
+                    <p class="pcontact">Figma</p>
                   </div>
                 </a>
               </li>
@@ -163,7 +148,6 @@
   *.socialbtns {
     margin-left: 2%;
   }
-
   .socialbtns,
   .socialbtns ul,
   .socialbtns li {
@@ -174,7 +158,6 @@
   .socialbtns li {
     margin-left: 32px;
   }
-
   .socialbtns li {
     list-style: none outside none;
     display: inline-block;
