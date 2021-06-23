@@ -66,6 +66,16 @@
         <div class="col-sm-12">
           <div class="work-1">
             <img
+              src="img/checkmyschedule/5.png"
+              class="img-full-width"
+              alt=""
+            />
+          </div>
+        </div>
+
+        <div class="col-sm-12">
+          <div class="work-1">
+            <img
               src="img/checkmyschedule/4.png"
               class="img-full-width"
               alt=""
@@ -75,24 +85,11 @@
 
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="img/falni/3.jpg" class="img-full-width" alt="" />
-          </div>
-        </div>
-
-        <div class="col-sm-12">
-          <div class="work-1">
-            <img src="img/falni/4.jpg" class="img-full-width" alt="" />
-          </div>
-        </div>
-
-        <div class="col-sm-12">
-          <div class="work-1">
-            <img src="img/falni/5.jpg" class="img-full-width" alt="" />
-          </div>
-        </div>
-        <div class="col-sm-12">
-          <div class="work-1">
-            <img src="img/falni/6.jpg" class="img-full-width" alt="" />
+            <img
+              src="img/checkmyschedule/6.png"
+              class="img-full-width"
+              alt=""
+            />
           </div>
         </div>
 
@@ -101,45 +98,9 @@
           <div align="center" class="socialbtns">
             <ul>
               <li>
-                <a href="/img/falni/FALNI-Briefing-Document.pdf">
+                <a href="/img/checkmyschedule/BusinessPlan.pdf">
                   <div id="contact-icon">
-                    <p class="pcontact">Briefing Document</p>
-                  </div>
-                </a>
-              </li>
-              <li>
-                <a href="/img/falni/FALNI-Pitch.pdf">
-                  <div id="contact-icon">
-                    <p class="pcontact">Pitch Document</p>
-                  </div>
-                </a>
-              </li>
-              <li>
-                <a href="/img/falni/FALNI-Brand-Guidelines.pdf">
-                  <div id="contact-icon">
-                    <p class="pcontact">Brand Guidelines</p>
-                  </div>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.falni.org">
-                  <div id="contact-icon">
-                    <p class="pcontact">Web Showcase</p>
-                  </div>
-                </a>
-              </li>
-
-              <li>
-                <a href="/img/falni/RedpathProductionLog.pdf">
-                  <div id="contact-icon">
-                    <p class="pcontact">Production Log</p>
-                  </div>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.project-social.co.uk/projects/">
-                  <div id="contact-icon">
-                    <p class="pcontact">Project Showcase</p>
+                    <p class="pcontact">Business Plan</p>
                   </div>
                 </a>
               </li>
