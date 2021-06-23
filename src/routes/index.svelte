@@ -27,7 +27,7 @@
         </div>
 
         <div class="col-lg-6 col-lg-3">
-          <a href="vr-within-society">
+          <a href="checkmyschedule">
             <div class="img-2 home-clicker">
               <img
                 src="/img/checkmyschedule.png"
