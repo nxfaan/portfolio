@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Lockdown</title>
+  <title>Lucid</title>
 </svelte:head>
 
 <main>
@@ -15,25 +15,22 @@
       <div class="row row-no-gutter">
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="/img/lockdown/1.png" class="img-full-width" alt="" />
+            <img src="/img/lucid/1.png" class="img-full-width" alt="" />
           </div>
         </div>
 
         <div class="col-sm-6">
           <div class="left-work">
             <h2 class="work-para">
-              <p class="work-head">Lockdown</p>
-              The major project was to provide an understanding of media Literacy,
-              news media literacy and transliteracy for research as practice production.
-              Utilisiing conspiracy, fake news and audience tracking to provide and
-              intervention on how audiences consume the news.
+              <p class="work-head">Lucid</p>
+              Pending
             </h2>
           </div>
         </div>
         <div class="col-sm-6">
           <div class="right-work">
             <!-- svelte-ignore a11y-missing-attribute -->
-            <img class="work-2" src="/img/lockdown/head.png" />
+            <img class="work-2" src="/img/lucid/head.png" />
           </div>
         </div>
 
@@ -41,7 +38,19 @@
 
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="img/lockdown/2.png" class="img-full-width" alt="" />
+            <img src="img/lucid/2.png" class="img-full-width" alt="" />
+          </div>
+        </div>
+
+        <div class="col-sm-12">
+          <div class="work-1">
+            <img src="img/lucid/3.png" class="img-full-width" alt="" />
+          </div>
+        </div>
+
+        <div class="col-sm-12">
+          <div class="work-1">
+            <img src="img/lucid/4.png" class="img-full-width" alt="" />
           </div>
         </div>
 

@@ -29,11 +29,7 @@
         <div class="col-lg-6 col-lg-3">
           <a href=".">
             <div class="img-2 home-clicker">
-              <img
-                src="/img/checkmyschedule.png"
-                class="img-full-width"
-                alt=""
-              />
+              <img src="/img/.png" class="img-full-width" alt="" />
               <div class="overlay-2">
                 <div class="text-2 home-clicker">Pending</div>
               </div>
