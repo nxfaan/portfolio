@@ -36,7 +36,7 @@
         <div class="col-sm-6">
           <div class="right-work">
             <!-- svelte-ignore a11y-missing-attribute -->
-            <img class="work-2" src="/img/falni/head.jpg" />
+            <img class="work-2" src="/img/falni/head.png" />
           </div>
         </div>
 
@@ -44,7 +44,11 @@
 
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="img/falni/0.jpg" class="img-full-width" alt="" />
+            <img
+              src="img/checkmyschedule/2.png"
+              class="img-full-width"
+              alt=""
+            />
           </div>
         </div>
 
