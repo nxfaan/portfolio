@@ -40,6 +40,12 @@
 
         <div class="col-sm-12">
           <div class="work-1">
+            <img src="img/falni/8.png" class="img-full-width" alt="" />
+          </div>
+        </div>
+
+        <div class="col-sm-12">
+          <div class="work-1">
             <img src="img/falni/0.jpg" class="img-full-width" alt="" />
           </div>
         </div>
