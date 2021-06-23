@@ -16,7 +16,7 @@
     <div class="container-fluid full-width">
       <div class="row row-no-gutter">
         <div class="col-lg-6 col-lg-3">
-          <a href="falni">
+          <a href="lockdown">
             <div class="img-1">
               <img src="/img/lockdown.png" class="img-full-width" alt="" />
               <div class="overlay-1">

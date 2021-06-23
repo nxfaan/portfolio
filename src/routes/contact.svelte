@@ -51,16 +51,15 @@
 
           <p class="about-me">
             My name is <span class="highlight">Nate</span>. Currently, I'm an
-            <span class="highlight">Interactive Media</span>
-            student within my final semester. Previously, I was a creative designer
-            for
+            <span class="highlight">creative</span>
+            student within my final semester. Having worked with companies such as
             <a href="https://www.ulster.ac.uk/"
               ><span class="highlight">Ulster University</span></a
             >
-            working on creative outputs & strategy. I am invested in projects initiates
-            a <span class="highlight">creative difference</span> in the world. I
-            am always freelancing and taking on projects in my spare time.<br
-            /><br />Want to work together? Drop me a
+            I am invested in projects initiates a
+            <span class="highlight">creative difference</span>
+            in the world. I am always freelancing and taking on projects in my spare
+            time.<br /><br />Want to work together? Drop me a
             <a href="mailto:nathanredpath10@icloud.com">
               <span class="highlight">line.</span></a
             >
