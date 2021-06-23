@@ -29,7 +29,8 @@
               <p class="work-head">CheckMySchedule</p>
               Check my Schedule is an interactive scheduling tool designed to make
               scheduling plans with others simpler. The ability to have a virtual
-              calendar that allows for organising plans with others.
+              calendar that allows for organising plans with others.Proposed as a
+              Business Plan and utilising market research for promotion.
             </h2>
           </div>
         </div>
@@ -64,7 +65,11 @@
 
         <div class="col-sm-12">
           <div class="work-1">
-            <img src="img/falni/2.jpg" class="img-full-width" alt="" />
+            <img
+              src="img/checkmyschedule/4.png"
+              class="img-full-width"
+              alt=""
+            />
           </div>
         </div>
 
