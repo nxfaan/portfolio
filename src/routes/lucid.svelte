@@ -23,7 +23,9 @@
           <div class="left-work">
             <h2 class="work-para">
               <p class="work-head">Lucid</p>
-              Pending
+              An energy comapany based in London that is in need of end to end UI/UX
+              design across mobile application, websites and web portals. Mixed along
+              side product design and overall digital and print design.
             </h2>
           </div>
         </div>
